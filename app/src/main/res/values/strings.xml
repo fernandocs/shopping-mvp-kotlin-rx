@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Shopping</string>
+
+    <string name="picker_color_title">Select color</string>
+    <string name="apply">Apply</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search article</string>
+    <string name="picker_money_title">Select max money</string>
+    <string name="picker_money_message">Select you max price above to filter the search result</string>
+    <string name="reset">Reset</string>
+    <string name="no_articles">No articles…</string>
+    <string name="error_get_articles">Error get articles…</string>
+
+    <string-array name="articles_colors">
+        <item>black</item>
+        <item>brown</item>
+        <item>beige</item>
+        <item>gray</item>
+        <item>white</item>
+        <item>blue</item>
+        <item>petrol</item>
+        <item>turquoise</item>
+        <item>green</item>
+        <item>olive</item>
+        <item>yellow</item>
+        <item>orange</item>
+        <item>red</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>gold</item>
+        <item>silver</item>
+        <item>mulitcolored</item>
+    </string-array>
+</resources>
